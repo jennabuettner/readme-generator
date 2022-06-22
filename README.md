@@ -1,9 +1,9 @@
-# h
+# README Generator
   ![License](https://img.shields.io/badge/license-MIT-blue.svg)
   
   ## Description 
 
-  h
+  This is a readme generator
 
   ## Table of Contents
 
@@ -17,11 +17,11 @@
 
   ## Installation 
 
-  h
+  Installation
   
   ## Usage
 
-  h
+  Usage
 
   ## License
 
@@ -29,17 +29,17 @@
 
   ## Contributing
 
-  h
+  contributing
 
   ## Tests
 
-  h
+  tests
 
   ## Questions
 
   If you have any questions, please contact me at one of the following addresses:
 
-  h
+  user@email.com
   
-  h
+  user@github.com
   
