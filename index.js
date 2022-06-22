@@ -31,7 +31,7 @@ inquirer
     {
       type: "input",
       message: "What are the instructions for installation?",
-      name: "instructions",
+      name: "installation",
     },
     {
       type: "input",
@@ -41,7 +41,7 @@ inquirer
     {
       type: "list",
       message: "Please select a license.",
-      name: "licenses",
+      name: "license",
       choices: licenseArray,
     },
     {
@@ -53,7 +53,7 @@ inquirer
     {
       type: "input",
       message: "How can people contribute to this project?",
-      name: "contribution",
+      name: "contributing",
     },
     {
       type: "input",
