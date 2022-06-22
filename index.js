@@ -66,9 +66,14 @@ inquirer
       message: "Please enter your email to receive user questions.",
       name: "questions",
     },
+    {
+      type: "input",
+      message: "Please provide your GitHub username for user questions.",
+      name: "github",
+    },
   ])
-  .then((response) =>
-    fs.writeFile("README.md", generateMarkdown(response), (err, data) => {
+  .then((data) =>
+    fs.writeFile("README.md", generateMarkdown(data), (err) => {
       console.log(err);
     })
   );
